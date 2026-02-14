@@ -24,5 +24,7 @@ Route::middleware('auth')->group(function () {
     
 });
 
+// this is just test 
+
 
 require __DIR__.'/auth.php';
